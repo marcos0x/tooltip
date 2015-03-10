@@ -17,7 +17,7 @@ $(function(){
 
 ## Parameters in the element
 
-- data-tooltipo: text | html
+- data-tooltip: text | html
 - data-event: mouseover (default) | click
 - data-position: top (default) | left | right | bottom
 - data-show: false (default) | true
