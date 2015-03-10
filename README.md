@@ -5,7 +5,7 @@ Make a custom tooltip that can be implemented in any html element and being show
 
 ### HTML
 ```html
-<a href="#" data-toggle="tooltip" data-tooltip="Example tooltip!"></select>
+<a href="#" data-toggle="tooltip" data-tooltip="Example tooltip!">Link</a>
 ```
 
 ### JS
